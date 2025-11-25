@@ -1,0 +1,13 @@
+[project]
+name = "data-flow"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "apache-superset>=5.0.0",
+    "marshmallow==3.26.1",
+    "trino>=0.335.0",
+]
+
+

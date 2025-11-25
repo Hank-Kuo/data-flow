@@ -1,0 +1,88 @@
+[2025-08-06T12:06:21.397+0000] {processor.py:157} INFO - Started process (PID=33) to work on /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:06:21.403+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/sql_pipeline_dag.py for tasks to queue
+[2025-08-06T12:06:21.424+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:06:21.423+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:06:21.639+0000] {processor.py:839} INFO - DAG(s) dict_keys(['sql_data_pipeline']) retrieved from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:06:23.956+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:06:23.955+0000] {manager.py:499} INFO - Created Permission View: %s
+[2025-08-06T12:06:23.998+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:06:23.998+0000] {manager.py:499} INFO - Created Permission View: %s
+[2025-08-06T12:06:24.019+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:06:24.018+0000] {manager.py:499} INFO - Created Permission View: %s
+[2025-08-06T12:06:24.020+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:06:24.020+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-06T12:06:24.042+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:06:24.041+0000] {dag.py:2963} INFO - Creating ORM DAG for sql_data_pipeline
+[2025-08-06T12:06:24.098+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:06:24.098+0000] {dag.py:3722} INFO - Setting next_dagrun for sql_data_pipeline to 2025-08-05T01:00:00+00:00, run_after=2025-08-06T01:00:00+00:00
+[2025-08-06T12:06:24.182+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/sql_pipeline_dag.py took 2.799 seconds
+[2025-08-06T12:06:55.053+0000] {processor.py:157} INFO - Started process (PID=37) to work on /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:06:55.057+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/sql_pipeline_dag.py for tasks to queue
+[2025-08-06T12:06:55.067+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:06:55.066+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:06:55.112+0000] {processor.py:839} INFO - DAG(s) dict_keys(['sql_data_pipeline']) retrieved from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:06:55.285+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:06:55.285+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-06T12:06:55.366+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:06:55.366+0000] {dag.py:3722} INFO - Setting next_dagrun for sql_data_pipeline to 2025-08-05T01:00:00+00:00, run_after=2025-08-06T01:00:00+00:00
+[2025-08-06T12:06:55.399+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/sql_pipeline_dag.py took 0.360 seconds
+[2025-08-06T12:07:25.900+0000] {processor.py:157} INFO - Started process (PID=41) to work on /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:07:25.901+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/sql_pipeline_dag.py for tasks to queue
+[2025-08-06T12:07:25.905+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:07:25.904+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:07:25.939+0000] {processor.py:839} INFO - DAG(s) dict_keys(['sql_data_pipeline']) retrieved from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:07:26.060+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:07:26.060+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-06T12:07:26.149+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:07:26.149+0000] {dag.py:3722} INFO - Setting next_dagrun for sql_data_pipeline to 2025-08-05T01:00:00+00:00, run_after=2025-08-06T01:00:00+00:00
+[2025-08-06T12:07:26.198+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/sql_pipeline_dag.py took 0.305 seconds
+[2025-08-06T12:07:56.291+0000] {processor.py:157} INFO - Started process (PID=45) to work on /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:07:56.292+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/sql_pipeline_dag.py for tasks to queue
+[2025-08-06T12:07:56.296+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:07:56.296+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:07:56.328+0000] {processor.py:839} INFO - DAG(s) dict_keys(['sql_data_pipeline']) retrieved from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:07:56.458+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:07:56.457+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-06T12:07:56.501+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:07:56.501+0000] {dag.py:3722} INFO - Setting next_dagrun for sql_data_pipeline to 2025-08-05T01:00:00+00:00, run_after=2025-08-06T01:00:00+00:00
+[2025-08-06T12:07:56.527+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/sql_pipeline_dag.py took 0.246 seconds
+[2025-08-06T12:08:26.888+0000] {processor.py:157} INFO - Started process (PID=49) to work on /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:08:26.889+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/sql_pipeline_dag.py for tasks to queue
+[2025-08-06T12:08:26.893+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:08:26.893+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:08:26.915+0000] {processor.py:839} INFO - DAG(s) dict_keys(['sql_data_pipeline']) retrieved from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:08:27.004+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:08:27.004+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-06T12:08:27.040+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:08:27.040+0000] {dag.py:3722} INFO - Setting next_dagrun for sql_data_pipeline to 2025-08-05T01:00:00+00:00, run_after=2025-08-06T01:00:00+00:00
+[2025-08-06T12:08:27.058+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/sql_pipeline_dag.py took 0.176 seconds
+[2025-08-06T12:08:57.364+0000] {processor.py:157} INFO - Started process (PID=53) to work on /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:08:57.365+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/sql_pipeline_dag.py for tasks to queue
+[2025-08-06T12:08:57.369+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:08:57.369+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:08:57.394+0000] {processor.py:839} INFO - DAG(s) dict_keys(['sql_data_pipeline']) retrieved from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:08:57.485+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:08:57.484+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-06T12:08:57.518+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:08:57.518+0000] {dag.py:3722} INFO - Setting next_dagrun for sql_data_pipeline to 2025-08-05T01:00:00+00:00, run_after=2025-08-06T01:00:00+00:00
+[2025-08-06T12:08:57.536+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/sql_pipeline_dag.py took 0.178 seconds
+[2025-08-06T12:09:27.750+0000] {processor.py:157} INFO - Started process (PID=57) to work on /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:09:27.751+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/sql_pipeline_dag.py for tasks to queue
+[2025-08-06T12:09:27.759+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:09:27.758+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:09:27.786+0000] {processor.py:839} INFO - DAG(s) dict_keys(['sql_data_pipeline']) retrieved from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:09:27.867+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:09:27.867+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-06T12:09:27.912+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:09:27.912+0000] {dag.py:3722} INFO - Setting next_dagrun for sql_data_pipeline to 2025-08-05T01:00:00+00:00, run_after=2025-08-06T01:00:00+00:00
+[2025-08-06T12:09:27.929+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/sql_pipeline_dag.py took 0.185 seconds
+[2025-08-06T12:09:58.206+0000] {processor.py:157} INFO - Started process (PID=61) to work on /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:09:58.209+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/sql_pipeline_dag.py for tasks to queue
+[2025-08-06T12:09:58.213+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:09:58.213+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:09:58.257+0000] {processor.py:839} INFO - DAG(s) dict_keys(['sql_data_pipeline']) retrieved from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:09:58.433+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:09:58.433+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-06T12:09:58.481+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:09:58.481+0000] {dag.py:3722} INFO - Setting next_dagrun for sql_data_pipeline to 2025-08-05T01:00:00+00:00, run_after=2025-08-06T01:00:00+00:00
+[2025-08-06T12:09:58.511+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/sql_pipeline_dag.py took 0.310 seconds
+[2025-08-06T12:10:28.598+0000] {processor.py:157} INFO - Started process (PID=65) to work on /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:10:28.599+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/sql_pipeline_dag.py for tasks to queue
+[2025-08-06T12:10:28.603+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:10:28.603+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:10:28.625+0000] {processor.py:839} INFO - DAG(s) dict_keys(['sql_data_pipeline']) retrieved from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:10:28.722+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:10:28.722+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-06T12:10:28.760+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:10:28.760+0000] {dag.py:3722} INFO - Setting next_dagrun for sql_data_pipeline to 2025-08-05T01:00:00+00:00, run_after=2025-08-06T01:00:00+00:00
+[2025-08-06T12:10:28.790+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/sql_pipeline_dag.py took 0.199 seconds
+[2025-08-06T12:10:59.066+0000] {processor.py:157} INFO - Started process (PID=69) to work on /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:10:59.066+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/sql_pipeline_dag.py for tasks to queue
+[2025-08-06T12:10:59.070+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:10:59.069+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:10:59.094+0000] {processor.py:839} INFO - DAG(s) dict_keys(['sql_data_pipeline']) retrieved from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:10:59.188+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:10:59.188+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-06T12:10:59.223+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:10:59.222+0000] {dag.py:3722} INFO - Setting next_dagrun for sql_data_pipeline to 2025-08-05T01:00:00+00:00, run_after=2025-08-06T01:00:00+00:00
+[2025-08-06T12:10:59.245+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/sql_pipeline_dag.py took 0.183 seconds
+[2025-08-06T12:11:29.461+0000] {processor.py:157} INFO - Started process (PID=73) to work on /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:11:29.462+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/sql_pipeline_dag.py for tasks to queue
+[2025-08-06T12:11:29.468+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:11:29.467+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:11:29.490+0000] {processor.py:839} INFO - DAG(s) dict_keys(['sql_data_pipeline']) retrieved from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:11:29.579+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:11:29.579+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-06T12:11:29.615+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:11:29.615+0000] {dag.py:3722} INFO - Setting next_dagrun for sql_data_pipeline to 2025-08-05T01:00:00+00:00, run_after=2025-08-06T01:00:00+00:00
+[2025-08-06T12:11:29.633+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/sql_pipeline_dag.py took 0.184 seconds
+[2025-08-06T12:11:59.916+0000] {processor.py:157} INFO - Started process (PID=77) to work on /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:11:59.919+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/sql_pipeline_dag.py for tasks to queue
+[2025-08-06T12:11:59.935+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:11:59.933+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:11:59.959+0000] {processor.py:839} INFO - DAG(s) dict_keys(['sql_data_pipeline']) retrieved from /opt/airflow/dags/sql_pipeline_dag.py
+[2025-08-06T12:12:00.123+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:12:00.123+0000] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-06T12:12:00.199+0000] {logging_mixin.py:151} INFO - [2025-08-06T12:12:00.198+0000] {dag.py:3722} INFO - Setting next_dagrun for sql_data_pipeline to 2025-08-05T01:00:00+00:00, run_after=2025-08-06T01:00:00+00:00
+[2025-08-06T12:12:00.228+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/sql_pipeline_dag.py took 0.325 seconds
